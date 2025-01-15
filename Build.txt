@@ -1,0 +1,18 @@
+id="plugin.program.chris-wizard-omega"
+version="2025.01"
+zip="https://kodi-unlimited-support.de/wizard"
+
+name="Chris Mediacenter Build"
+version="3.0"
+url="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21-3.0.zip"
+minor="https://"
+gui="https://"
+kodi="21.0"
+theme="https://"
+icon="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21.png"
+fanart="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21.png"
+preview="https://"
+adult="Yes"
+info="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21.txt"
+description="- LiveTV inkl. EPG[CR]- Filme/Serien[CR]- Mediatheken[CR]- Radio/Musik[CR]- Sport[CR]- XXX"
+
